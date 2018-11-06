@@ -2,7 +2,7 @@
     "name": "cutlerry/test",
     "description": "test",
     "type": "project",
-    "license": "open-source",
+    "license": "proprietary",
     "minimum-stability": "dev",
     "require": {}
 }
