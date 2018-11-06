@@ -6,8 +6,8 @@
     "minimum-stability": "dev",
     "require": {},
       "autoload": {
-        "psr-0": {
-            "Core": "src/core"
+         "psr-4": {
+            "Core\\":"src/core"
         }
     }
 }
