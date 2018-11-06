@@ -1,0 +1,8 @@
+{
+    "name": "cutlerry/test",
+    "description": "test",
+    "type": "project",
+    "license": "open-source",
+    "minimum-stability": "dev",
+    "require": {}
+}
